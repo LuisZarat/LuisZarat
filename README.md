@@ -1,11 +1,9 @@
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-
-**I'm Luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   <h2 align="left">
    <abc>
     <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-    <br> I'm Full Stack Web Developer :computer:<br>
+    <br> I'm Luis  :computer:<br>
     <br>
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
    </abc>
@@ -28,16 +26,20 @@
    <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
       </p>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+### A little more about me...  
+<h2 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me:</h2>
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :computer: I'm a computer engineering student.
+- :classical_building: Autonomous Metropolitan University (UAM)
+- :mortar_board: Certified in Google Cloud
+- :bulb: I'm interested in all things data: Big Data, Cloud computing,Data Science and Dev.
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :anchor: I love gym :mechanical_arm:, soccer :soccer:, cook :hotsprings: 
+
 
 <h2 align="left">:heart: Let's get connected:</h2>
  <! --
