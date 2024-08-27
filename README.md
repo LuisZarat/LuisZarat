@@ -37,11 +37,11 @@
 - :mortar_board: Certified in Google Cloud
 - :bulb: I'm interested in all things data: Big Data, Cloud computing,Data Science and Dev.
 - :rocket: I'm currently working on my pet projects.
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-- :anchor: I love gym :mechanical_arm:, soccer :soccer:, cook :hotsprings: 
+- :dart: Life Hack: 
+- :trophy: Winner of computer rally (SCMA'24) - UAMC
+- :zap: Fun fact: 
+- :anchor: I love gym :mechanical_arm:, soccer :soccer:, cook :hotsprings:
+- :man_technologist: programming is a social activity
 
 
 <h2 align="left">:heart: Let's get connected:</h2>
