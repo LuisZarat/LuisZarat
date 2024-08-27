@@ -53,7 +53,7 @@
       <img alt="GitHub" title="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="https://www.linkedin.com/">
     <img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="https://cdn.simpleicons.org/linkedin"></a>
-  <a href="https://mail.google.com/mail/u/0/#inbox">
+  <a href="luis.soto@cua.uam.mx">
     <img alt="gmail" title="gmail" height="42" width="45" src="https://raw.githubusercontent.com/cszach/cszach/master/img/icons/gmail.png"></a>
 </p>
 
