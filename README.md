@@ -37,7 +37,7 @@
 - :mortar_board: Certified in Google Cloud
 - :bulb: I'm interested in all things data: Big Data, Cloud computing,Data Science and Dev.
 - :rocket: I'm currently working on my pet projects.
-- :dart: Life Hack: 
+- :dart: Life Hack: The question is not who will allow me to do so. The question is who is going to stop me 
 - :trophy: Winner of computer rally (SCMA'24) - UAMC
 - :zap: Fun fact: 
 - :anchor: I love gym :mechanical_arm:, soccer :soccer:, cook :hotsprings:
@@ -47,24 +47,24 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <p align="center">
-  <a href="https://github.com/">
+  <a href="https://github.com/LuisZarat">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="https://www.linkedin.com/">
     <img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="https://cdn.simpleicons.org/linkedin"></a>
-  <a href="https://www.npmjs.com/~peterthehan">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
     <img alt="gmail" title="gmail" height="42" width="45" src="https://raw.githubusercontent.com/cszach/cszach/master/img/icons/gmail.png"></a>
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/WjEFnzC">
+  <a href="https://www.instagram.com/luuis_zarat?igsh=NnF0d2JkenkxbW5i">
     <img alt="Instagram" title="Instagram" height="40" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>
-  <a href="https://www.threads.net/@peterthehan">
+  <a href="https://www.threads.net">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threads/white">
       <img alt="Threads" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/threads"></picture></a>
-  <a href="https://youtube.com/@peterthehan">
+  <a href="https://youtube.com">
     <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
 </p>
 
